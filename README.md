@@ -118,7 +118,7 @@ Welcome to Campus Event System
 
 ##  Author
 
-** Thabang Ashley Phahlamohlaka**
+**Thabang Ashley Phahlamohlaka**
 
 Final-year BSc Information Technology Student
 
