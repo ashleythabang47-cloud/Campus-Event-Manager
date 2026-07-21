@@ -1,5 +1,11 @@
 #  Campus Event Manager
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-blue?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Java%20Collections-Framework-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+
 A Java console-based application that allows students and staff to manage campus events through a menu-driven interface. The system demonstrates core Object-Oriented Programming principles and provides features for creating, managing, and registering for campus events.
 
 ---
